@@ -3,25 +3,24 @@
 ## Screenshots to the Application can be seen below
 
 ## Home Screen:
-![Home Screen](https://drive.google.com/uc?id=1a1q6FPlFQjFCV-qALIu33vafMmCxzgLH)
-
+<img src="https://drive.google.com/uc?id=1a1q6FPlFQjFCV-qALIu33vafMmCxzgLH" width="200">
 ## Menu:
-![Menu](https://drive.google.com/uc?id=1gf0YIuAS179Vq9v-AXjxdNN72cQkcN_q)
+<img src="https://drive.google.com/uc?id=1gf0YIuAS179Vq9v-AXjxdNN72cQkcN_q" width="200">
 
 ## Credentials:
-![Credentials](https://drive.google.com/uc?id=1IOECqxnKZ-dniQTvYQgAKLGFEwtf4VUY)
+![Credentials](https://drive.google.com/uc?id=1IOECqxnKZ-dniQTvYQgAKLGFEwtf4VUY){: width="36px"}
 
 ## View Credentials:
-![View Credentials](https://drive.google.com/uc?id=1vSON8cbaHaO9Jg_-m8Xfm0PfUksD2qY2)
+![View Credentials](https://drive.google.com/uc?id=1vSON8cbaHaO9Jg_-m8Xfm0PfUksD2qY2){: width="36px"}
 
 ## Add Credit Card:
-![Add Credit Card](https://drive.google.com/uc?id=1_4az5P8HIyVlTio8Wv_583QrBtdGX2jY)
+![Add Credit Card](https://drive.google.com/uc?id=1_4az5P8HIyVlTio8Wv_583QrBtdGX2jY){: width="36px"}
 
 ## Saved Cards:
-![Saved Cards](https://drive.google.com/uc?id=1v7KIT5j5OWWgegYTXxgS-afJtnInXZda)
+![Saved Cards](https://drive.google.com/uc?id=1v7KIT5j5OWWgegYTXxgS-afJtnInXZda){: width="36px"}
 
 ## Notes:
-![Notes](https://drive.google.com/uc?id=1BJMWTMOpvaX1BQLGtElBBPPta50xwn5z)
+![Notes](https://drive.google.com/uc?id=1BJMWTMOpvaX1BQLGtElBBPPta50xwn5z){: width="36px"}
 
 
 
