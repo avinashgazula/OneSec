@@ -1,6 +1,31 @@
-One-Sec 
+# One-Sec Security Application
 
-References
+## Screenshots to the Application can be seen below
+
+## Home Screen:
+![Home Screen](https://drive.google.com/uc?id=1a1q6FPlFQjFCV-qALIu33vafMmCxzgLH)
+
+## Menu:
+![Menu](https://drive.google.com/uc?id=1gf0YIuAS179Vq9v-AXjxdNN72cQkcN_q)
+
+## Credentials:
+![Credentials]()
+
+## View Credentials:
+![View Credentials](https://drive.google.com/uc?id=1IOECqxnKZ-dniQTvYQgAKLGFEwtf4VUY)
+
+## Add Credit Card:
+![Add Credit Card](https://drive.google.com/uc?id=1_4az5P8HIyVlTio8Wv_583QrBtdGX2jY)
+
+## Saved Cards:
+![Saved Cards](https://drive.google.com/uc?id=1v7KIT5j5OWWgegYTXxgS-afJtnInXZda)
+
+## Notes:
+![Notes](https://drive.google.com/uc?id=1BJMWTMOpvaX1BQLGtElBBPPta50xwn5z)
+
+
+
+# References
 [1]J. Thornsby, "How to add fingerprint authentication to your Android app", Android Authority, 2019. [Online]. Available: https://www.androidauthority.com/how-to-add-fingerprint-authentication-to-your-android-app-747304/.
 
 [2]"RecyclerView", Youtube.com, 2019. [Online]. Available: https://www.youtube.com/watch?v=Vyqz_-sJGFk&t=897s.
